@@ -1,0 +1,1 @@
+console.log("Ecco il nuovo script");

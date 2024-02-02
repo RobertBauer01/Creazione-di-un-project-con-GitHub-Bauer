@@ -1,0 +1,14 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    font-size: large;
+    color: purple;
+}
+
+/*
+I file di stile CSS servono per modificare i attributi dei oggetti nelle pagine html
+Come in questo esempio lo sfondo del body nel file index.html è impostato a colore lightgray, oppure il tah h1 avra il suo font cambiato di dimensione a "large".
+I file CSS vengono collegati al file HTML con questa riga di codice: <link rel="stylesheet" href="styles.css">
+*/
