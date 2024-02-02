@@ -1,2 +1,3 @@
 # Creazione-di-un-project-con-GitHub-Bauer
-Creazione di project con GitHub usando i comandi con git ,con visual studio ,creazione della cartella in locale. Inoltre nell'issues vedere lo svolgimento dei vari punti svolti in excel e power-point, collaborando coppia.
+Esercizo  -CompitoGitJs- si riferisce al compito di classroom -Gitpod e JavaScript-
+Esercizo  -PrimoCompito- si riferisce al compito di classroom -Creazione di un project con GitHub-
